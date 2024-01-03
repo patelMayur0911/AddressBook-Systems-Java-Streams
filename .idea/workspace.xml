@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a85cef94-c9fc-4dba-bdd7-74a253761297" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/PM_GH.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC/ABC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABC/src/Mno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicCorePrograms/BasicCorePrograms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicCorePrograms/src/CheckVowel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicCorePrograms/src/HarmonicNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicCorePrograms/src/HeadTails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicCorePrograms/src/LargeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicCorePrograms/src/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicCorePrograms/src/OddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicCorePrograms/src/PowerOfTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicCorePrograms/src/PrimeFactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicCorePrograms/src/QuotientRemainder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicCorePrograms/src/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 15 Practice Problem/Day 15 Practice Problem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 16-17/Day 16-17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 21 Practice Problem/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 21 Practice Problem/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 21 Practice Problem/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 21 Practice Problem/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 21 Practice Problem/src/test/java/MoodAnalyzerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 9 Practice Problem/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 9 Practice Problem/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 9 Practice Problem/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 9 Practice Problem/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 9 Practice Problem/Day 9 Practice Problem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 9 Practice Problem/src/AdressBookSystem/AdressBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 9 Practice Problem/src/WageProgramme/EWPTrash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 9 Practice Problem/src/WageProgramme/EmployeeWageProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dec15_2023/Dec15_2023.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dec16_2023/Dec16_2023.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dec16_2023/HooksConcept/HooksConcept.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dec18_2023/Dec18_2023.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dec19_2023/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dec19_2023/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dec19_2023/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dec19_2023/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dec19_2023/Dec19_2023.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dec20_2023/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dec20_2023/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dec20_2023/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dec20_2023/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dec20_2023/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dec20_2023/Dec20_2023.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dec20_2023/src/Com/GeenricValues/GenricsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dec20_2023/src/Com/arrayList/EnumExampple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dec20_2023/src/Com/arrayList/HashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dec22_2023/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dec22_2023/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dec22_2023/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dec22_2023/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dec22_2023/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dec22_2023/Dec22_2023.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dec22_2023/src/com/test/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dec22_2023/src/com/test/frequencyOfEachElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dec22_2023/src/com/test/largestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dec22_2023/src/com/test/multipalOf5Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dec22_2023/src/com/test/reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dec23_2023/Dec23_2023.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dec23_23/Dec23_23.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dec26_2023/Dec26_2023.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dec27_2023/Dec27_2023.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dec30_2023/src/main/java/SimpleExcep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jan02_2024/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jan02_2024/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jan02_2024/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jan02_2024/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jan02_2024/Jan02_2024.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jan02_2024/src/com/collectionDemo/collectionAndCollactionsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jan02_2024/src/com/lamdaDemo/LamdaExpDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Janasya/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Janasya/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Janasya/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Janasya/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Janasya/Janasya.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LogicalPrograms/LogicalPrograms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PMedits/PMedits.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PatelMayur/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../User Registration/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../User Registration/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../User Registration/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../User Registration/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../User Registration/User Registration.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../production/PM_GH/.idea/PM_GH.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abc.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2aRWfLclIbjak9o4VTkAzV90UUo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "demo",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Day 22 Practice Problem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Day 22 Practice Problem" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-8336523bb0d9-657b72ed" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a85cef94-c9fc-4dba-bdd7-74a253761297" name="Changes" comment="" />
+      <created>1704281975600</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704281975600</updated>
+    </task>
+    <servers />
+  </component>
+</project>
