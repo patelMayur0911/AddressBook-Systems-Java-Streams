@@ -30,6 +30,8 @@
       <change afterPath="$PROJECT_DIR$/../Day 21 Practice Problem/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day 21 Practice Problem/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day 21 Practice Problem/src/test/java/MoodAnalyzerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/AdressBookSystem/AddressBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/AdressBookSystem/PersonalDetails.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day 9 Practice Problem/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day 9 Practice Problem/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day 9 Practice Problem/.idea/modules.xml" afterDir="false" />
@@ -95,6 +97,8 @@
       <change afterPath="$PROJECT_DIR$/../User Registration/User Registration.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../production/PM_GH/.idea/PM_GH.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AddressBookMain.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../abc.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,14 +114,14 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2aRWfLclIbjak9o4VTkAzV90UUo" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -125,13 +129,55 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AddressBook.executor": "Run",
+    "Application.AddressBookMain.executor": "Run",
+    "Application.com.AdressBookSystem.AddressBook.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "demo",
+    "git-widget-placeholder": "UC1",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.com.AdressBookSystem.AddressBook">
+    <configuration name="AddressBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bank.AddressBook" />
+      <module name="AddressBookSystem_CollectionDemoProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.AdressBookSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddressBookMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bank.AddressBookMain" />
+      <module name="AddressBookSystem_CollectionDemoProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.AdressBookSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.AdressBookSystem.AddressBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.AdressBookSystem.AddressBook" />
+      <module name="AddressBookSystem_CollectionDemoProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.AdressBookSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Day 22 Practice Problem" />
       <method v="2">
@@ -145,6 +191,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.AdressBookSystem.AddressBook" />
+        <item itemvalue="Application.AddressBookMain" />
+        <item itemvalue="Application.AddressBook" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
