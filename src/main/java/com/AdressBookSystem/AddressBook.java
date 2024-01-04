@@ -87,7 +87,19 @@ public class AddressBook {
         List<PersonalDetails> personsInState = B.searchByState(stateSearch);
         System.out.println("Persons in "+stateSearch+" :");
         personsInState.forEach(System.out::println);
-        
+
+        System.out.println();
+        System.out.println("Enter City to count  : ");
+        String citySearchForCount = sysInput.next();
+        long CountOfCity = B.list1.stream().filter(city -> city.getCity().equalsIgnoreCase(citySearchForCount)).count();
+        System.out.println("Person Count of "+citySearchForCount+" People : " +  CountOfCity);
+        B.list1.stream().filter(city -> city.getCity().equalsIgnoreCase(citySearchForCount)).forEach(System.out::println);
+
+        System.out.println();
+        System.out.println("Enter State to count : ");
+        String stateSearchForCount = sysInput.next();
+        long CountOfstate = B.list1.stream().filter(state -> state.getState().equalsIgnoreCase(stateSearchForCount)).count();
+        System.out.println("Person Count of "+stateSearchForCount+" State   : " +  CountOfstate);
 
 
     }

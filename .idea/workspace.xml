@@ -96,9 +96,7 @@
       <change afterPath="$PROJECT_DIR$/../User Registration/User Registration.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../production/PM_GH/.idea/PM_GH.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/AdressBookSystem/AddressBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/AdressBookSystem/AddressBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/AdressBookSystem/PersonalDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/AdressBookSystem/PersonalDetails.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../abc.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -127,17 +125,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AddressBook.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AddressBookMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.AdressBookSystem.AddressBook.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;UC8&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AddressBook.executor": "Run",
+    "Application.AddressBookMain.executor": "Run",
+    "Application.com.AdressBookSystem.AddressBook.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "UC9",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.com.AdressBookSystem.AddressBook">
     <configuration name="AddressBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bank.AddressBook" />
