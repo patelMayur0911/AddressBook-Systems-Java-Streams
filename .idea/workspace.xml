@@ -96,7 +96,6 @@
       <change afterPath="$PROJECT_DIR$/../User Registration/User Registration.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../production/PM_GH/.idea/PM_GH.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/AdressBookSystem/AddressBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/AdressBookSystem/AddressBook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../abc.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -132,7 +131,7 @@
     "Application.com.AdressBookSystem.AddressBook.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "UC9",
+    "git-widget-placeholder": "UC10",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
