@@ -100,16 +100,15 @@ public class PersonalDetails {
 
     @Override
     public String toString() {
-        return "PersonalDetails{" +
-                "IndexNumber=" + IndexNumber +
-                ", FirstName='" + FirstName + '\'' +
-                ", LastName='" + LastName + '\'' +
-                ", Address='" + Address + '\'' +
-                ", City='" + City + '\'' +
-                ", State='" + State + '\'' +
-                ", ZipCode='" + ZipCode + '\'' +
-                ", PhoneNumber='" + PhoneNumber + '\'' +
-                ", Email='" + Email + '\'' +
+        return "PersonalDetails{" + IndexNumber +
+                ", " + FirstName + '\'' +
+                ", " + LastName + '\'' +
+                ", " + Address + '\'' +
+                ", " + City + '\'' +
+                ", " + State + '\'' +
+                ", " + ZipCode + '\'' +
+                ", " + PhoneNumber + '\'' +
+                ", " + Email + '\'' +
                 '}';
     }
 }

@@ -30,8 +30,6 @@
       <change afterPath="$PROJECT_DIR$/../Day 21 Practice Problem/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day 21 Practice Problem/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day 21 Practice Problem/src/test/java/MoodAnalyzerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/AdressBookSystem/AddressBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/AdressBookSystem/PersonalDetails.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day 9 Practice Problem/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day 9 Practice Problem/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day 9 Practice Problem/.idea/modules.xml" afterDir="false" />
@@ -98,7 +96,8 @@
       <change afterPath="$PROJECT_DIR$/../production/PM_GH/.idea/PM_GH.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled1/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AddressBookMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/AdressBookSystem/AddressBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/AdressBookSystem/AddressBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/AdressBookSystem/PersonalDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/AdressBookSystem/PersonalDetails.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../abc.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,7 +133,7 @@
     "Application.com.AdressBookSystem.AddressBook.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "UC1",
+    "git-widget-placeholder": "UC7",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
