@@ -5,6 +5,8 @@ import java.util.stream.Collectors;
 
 public class AddressBook {
     private List<PersonalDetails> list1 = new ArrayList<>();
+    private Map<String, List<PersonalDetails>> cityPersonMap = new HashMap<>();
+    private Map<String, List<PersonalDetails>> statePersonMap = new HashMap<>();
 
     public void addNewContact(PersonalDetails PDItems) {
         if (list1.stream().anyMatch(contact -> contact.getFirstName().equals(PDItems.getFirstName()))) {
@@ -48,6 +50,30 @@ public class AddressBook {
         return list1.stream()
                 .filter(contact -> contact.getState().equalsIgnoreCase(state))
                 .collect(Collectors.toList());
+    }
+    public void mapPersonsByCity() {
+        cityPersonMap = list1.stream()
+                .collect(Collectors.groupingBy(PersonalDetails::getCity));
+    }
+
+    public void mapPersonsByState() {
+        statePersonMap = list1.stream()
+                .collect(Collectors.groupingBy(PersonalDetails::getState));
+    }
+
+    public void displayPersonsByCity() {
+        mapPersonsByCity();
+        cityPersonMap.forEach((city, persons) -> {
+            System.out.println("Persons in " + city + ":");
+            persons.stream().map(PersonalDetails::getFirstName).forEach(System.out::println);
+        });
+    }
+    public void displayPersonsByState() {
+        mapPersonsByState();
+        statePersonMap.forEach((state, persons) -> {
+            System.out.println("Persons in " + state + " State:");
+            persons.stream().map(PersonalDetails::getFirstName).forEach(System.out::println);
+        });
     }
 
 
@@ -101,6 +127,13 @@ public class AddressBook {
         long CountOfstate = B.list1.stream().filter(state -> state.getState().equalsIgnoreCase(stateSearchForCount)).count();
         System.out.println("Person Count of "+stateSearchForCount+" State   : " +  CountOfstate);
 
+        System.out.println();
+        System.out.println("Directory BY City");
+        B.displayPersonsByCity();
+
+        System.out.println();
+        System.out.println("Directory By State");
+        B.displayPersonsByState();
 
     }
 

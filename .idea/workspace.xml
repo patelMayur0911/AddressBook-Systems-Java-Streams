@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a85cef94-c9fc-4dba-bdd7-74a253761297" name="Changes" comment="">
+    <list default="true" id="f3706cc2-5f79-43fe-bcec-d4f8d5652955" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../.idea/PM_GH.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ABC/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ABC/.idea/misc.xml" afterDir="false" />
@@ -30,6 +30,9 @@
       <change afterPath="$PROJECT_DIR$/../Day 21 Practice Problem/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day 21 Practice Problem/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day 21 Practice Problem/src/test/java/MoodAnalyzerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 22 Practice Problem/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 22 Practice Problem/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 22 Practice Problem/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day 9 Practice Problem/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day 9 Practice Problem/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day 9 Practice Problem/.idea/modules.xml" afterDir="false" />
@@ -96,6 +99,10 @@
       <change afterPath="$PROJECT_DIR$/../User Registration/User Registration.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../production/PM_GH/.idea/PM_GH.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/AdressBookSystem/AddressBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/AdressBookSystem/AddressBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AddressBookMainTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../abc.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,77 +110,30 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
-}</component>
-  <component name="ProjectId" id="2aRWfLclIbjak9o4VTkAzV90UUo" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-<<<<<<< HEAD
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;demo&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
-  }
-}</component>
-  <component name="RunManager">
-=======
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AddressBook.executor": "Run",
-    "Application.AddressBookMain.executor": "Run",
-    "Application.com.AdressBookSystem.AddressBook.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "UC10",
+    "git-widget-placeholder": "UC9",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.com.AdressBookSystem.AddressBook">
+  <component name="RunManager">
     <configuration name="AddressBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bank.AddressBook" />
-      <module name="AddressBookSystem_CollectionDemoProblems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.AdressBookSystem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AddressBookMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bank.AddressBookMain" />
-      <module name="AddressBookSystem_CollectionDemoProblems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.AdressBookSystem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.AdressBookSystem.AddressBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.AdressBookSystem.AddressBook" />
       <module name="AddressBookSystem_CollectionDemoProblems" />
       <extension name="coverage">
@@ -186,24 +146,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
->>>>>>> UC10
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="Day 22 Practice Problem" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Day 22 Practice Problem" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.AdressBookSystem.AddressBook" />
-        <item itemvalue="Application.AddressBookMain" />
         <item itemvalue="Application.AddressBook" />
       </list>
     </recent_temporary>
@@ -218,11 +162,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a85cef94-c9fc-4dba-bdd7-74a253761297" name="Changes" comment="" />
-      <created>1704281975600</created>
+      <changelist id="f3706cc2-5f79-43fe-bcec-d4f8d5652955" name="Changes" comment="" />
+      <created>1704398005087</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1704281975600</updated>
+      <updated>1704398005087</updated>
     </task>
     <servers />
   </component>
