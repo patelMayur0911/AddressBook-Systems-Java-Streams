@@ -100,7 +100,7 @@ public class PersonalDetails {
 
     @Override
     public String toString() {
-        return "PersonalDetails{" + IndexNumber +
+        return "{" + IndexNumber +
                 ", " + FirstName + '\'' +
                 ", " + LastName + '\'' +
                 ", " + Address + '\'' +
