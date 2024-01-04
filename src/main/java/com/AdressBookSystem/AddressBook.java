@@ -82,58 +82,65 @@ public class AddressBook {
         System.out.println("Welcome to AddressBook Program");
         System.out.println();
         AddressBook B = getAddressBook();
+//
+//        System.out.println("Enter First Name to edit : ");
+//        String inputString = sysInput.next();
+//        System.out.println();
+//        System.out.println("Enter Name :");
+//        String editString = sysInput.next();
+//
+//        B.editFirstName(inputString,editString);
+//        System.out.println(B);
+//        B.displayAddedContact();
+//
+//        System.out.println();
+//        System.out.println("Enter index Number to delete");
+//        int toDelete = sysInput.nextInt();
+//
+//        B.deleteContact(toDelete-1);
+//        B.displayAddedContact();
+//
+//        System.out.println();
+//        System.out.println("Search by City : ");
+//        String citySearch = sysInput.next();
+//        List<PersonalDetails> personsInCity = B.searchByCity(citySearch);
+//        System.out.println("Persons in "+citySearch+" :");
+//        personsInCity.forEach(System.out::println);
+//
+//        System.out.println();
+//        System.out.println("Search by State : ");
+//        String stateSearch = sysInput.next();
+//        List<PersonalDetails> personsInState = B.searchByState(stateSearch);
+//        System.out.println("Persons in "+stateSearch+" :");
+//        personsInState.forEach(System.out::println);
+//
+//        System.out.println();
+//        System.out.println("Enter City to count  : ");
+//        String citySearchForCount = sysInput.next();
+//        long CountOfCity = B.list1.stream().filter(city -> city.getCity().equalsIgnoreCase(citySearchForCount)).count();
+//        System.out.println("Person Count of "+citySearchForCount+" People : " +  CountOfCity);
+//        B.list1.stream().filter(city -> city.getCity().equalsIgnoreCase(citySearchForCount)).forEach(System.out::println);
+//
+//        System.out.println();
+//        System.out.println("Enter State to count : ");
+//        String stateSearchForCount = sysInput.next();
+//        long CountOfstate = B.list1.stream().filter(state -> state.getState().equalsIgnoreCase(stateSearchForCount)).count();
+//        System.out.println("Person Count of "+stateSearchForCount+" State   : " +  CountOfstate);
+//
+//        System.out.println();
+//        System.out.println("Directory BY City");
+//        B.displayPersonsByCity();
+//
+//        System.out.println();
+//        System.out.println("Directory By State");
+//        B.displayPersonsByState();
 
-        System.out.println("Enter First Name to edit : ");
-        String inputString = sysInput.next();
+        List<PersonalDetails> sortedB = B.list1.stream().sorted(Comparator.comparing(PersonalDetails::getFirstName))
+                .collect(Collectors.toList());
         System.out.println();
-        System.out.println("Enter Name :");
-        String editString = sysInput.next();
+        System.out.println("Sorted AddressBook : ");
+        sortedB.forEach(System.out::println);
 
-        B.editFirstName(inputString,editString);
-        System.out.println(B);
-        B.displayAddedContact();
-
-        System.out.println();
-        System.out.println("Enter index Number to delete");
-        int toDelete = sysInput.nextInt();
-
-        B.deleteContact(toDelete-1);
-        B.displayAddedContact();
-
-        System.out.println();
-        System.out.println("Search by City : ");
-        String citySearch = sysInput.next();
-        List<PersonalDetails> personsInCity = B.searchByCity(citySearch);
-        System.out.println("Persons in "+citySearch+" :");
-        personsInCity.forEach(System.out::println);
-
-        System.out.println();
-        System.out.println("Search by State : ");
-        String stateSearch = sysInput.next();
-        List<PersonalDetails> personsInState = B.searchByState(stateSearch);
-        System.out.println("Persons in "+stateSearch+" :");
-        personsInState.forEach(System.out::println);
-
-        System.out.println();
-        System.out.println("Enter City to count  : ");
-        String citySearchForCount = sysInput.next();
-        long CountOfCity = B.list1.stream().filter(city -> city.getCity().equalsIgnoreCase(citySearchForCount)).count();
-        System.out.println("Person Count of "+citySearchForCount+" People : " +  CountOfCity);
-        B.list1.stream().filter(city -> city.getCity().equalsIgnoreCase(citySearchForCount)).forEach(System.out::println);
-
-        System.out.println();
-        System.out.println("Enter State to count : ");
-        String stateSearchForCount = sysInput.next();
-        long CountOfstate = B.list1.stream().filter(state -> state.getState().equalsIgnoreCase(stateSearchForCount)).count();
-        System.out.println("Person Count of "+stateSearchForCount+" State   : " +  CountOfstate);
-
-        System.out.println();
-        System.out.println("Directory BY City");
-        B.displayPersonsByCity();
-
-        System.out.println();
-        System.out.println("Directory By State");
-        B.displayPersonsByState();
 
     }
 
