@@ -80,6 +80,7 @@
       <change afterPath="$PROJECT_DIR$/../Jan02_2024/Jan02_2024.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Jan02_2024/src/com/collectionDemo/collectionAndCollactionsDemo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Jan02_2024/src/com/lamdaDemo/LamdaExpDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jan04_2024/src/main/java/com/streams/Employee.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Janasya/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Janasya/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Janasya/.idea/vcs.xml" afterDir="false" />
@@ -115,22 +116,22 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2aRWfLclIbjak9o4VTkAzV90UUo" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "demo",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;demo&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Day 22 Practice Problem" />
